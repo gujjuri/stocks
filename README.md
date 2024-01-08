@@ -1,0 +1,2 @@
+# stocks
+my stocks picking 
